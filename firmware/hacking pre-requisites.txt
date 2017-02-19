@@ -18,5 +18,5 @@ access to the internal wifi module without entering into sleep mode.
 
 ## DOWNLOAD
 1. USB converter - CP2102 drivers : https://goo.gl/OgFIaZ
-2. ESPlorer v1 : http://goo.gl/YTEuGB
+2. ESPlorer v1 : https://esp8266.ru/esplorer/
 3. Termite serial software : http://goo.gl/S84jMd
