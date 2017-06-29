@@ -41,7 +41,7 @@ function sendEvent()
                "&w="..btnAP..
                "&e=1&d=1";         
 
-	pcall(assert(loadfile)("httpsend.lc"), "www.knewron.co.in", "80", postStr, postResponse);
+	pcall(assert(loadfile)("httpsend.lc"), "url", "port", postStr, postResponse);
 end
 
 -- this is where the main program starts
