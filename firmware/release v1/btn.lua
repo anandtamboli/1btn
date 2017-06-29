@@ -53,7 +53,7 @@ function sendEvent()
                "&e=1"..
                "&d="..pressDuration;         
 
-	pcall(assert(loadfile)("httpsend.lc"), "www.1btn.space", "80", postStr, postResponse);
+	pcall(assert(loadfile)("httpsend.lc"), "url", "port", postStr, postResponse);
 end
 
 -- this is where the main program starts
