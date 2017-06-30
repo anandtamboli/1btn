@@ -22,7 +22,6 @@ conn:on("connection", function(conn, payload)
      
      conn:send("GET /"..data.." HTTP/1.1\r\n".. 
      "Host: "..api.."\r\n"..
-     "User-Agent: KNEWRON Technologies/smartWIFI/1.0\r\n"..
      "Connection: keep-alive\r\n"..
      "Accept: */*\r\n"..
      "\r\n");
