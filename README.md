@@ -20,3 +20,6 @@ We think there’s a better way, a tried-and-true, more intuitive way, to activa
 
 ## License
 See the [LICENSE] (https://github.com/anandtamboli/1btn/blob/master/LICENSE) file
+
+## Platform
+https://github.com/knewron-technologies/in24hrs
